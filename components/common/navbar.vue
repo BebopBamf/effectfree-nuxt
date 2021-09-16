@@ -1,11 +1,11 @@
 <template>
-    <c-box>
-        <c-flex p="2">
+    <c-flex as="nav">
+        <c-flex justify="center"> 
             <c-box>
                 <c-text font-size="lg" font-weight="bold">EFFECT FREE</c-text>
             </c-box>
         </c-flex>
-    </c-box>
+    </c-flex>
 </template>
 
 <script lang="ts">
